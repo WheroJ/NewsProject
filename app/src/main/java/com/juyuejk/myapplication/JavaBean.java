@@ -7,4 +7,6 @@ package com.juyuejk.myapplication;
  */
 
 public class JavaBean {
+     public String userName;
+     public String userName;
 }
