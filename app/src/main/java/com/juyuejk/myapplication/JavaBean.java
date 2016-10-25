@@ -8,4 +8,6 @@ package com.juyuejk.myapplication;
 
 public class JavaBean {
     public String user;
+     public String userName;
+     public String userName;
 }
